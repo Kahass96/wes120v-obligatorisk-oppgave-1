@@ -18,3 +18,4 @@ Start utviklingsserveren: pnpm dev
   ➜  press h + enter to show help
 
 Gå ut/slutt serveren: q + Enter
+```
